@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Disk-DATA\\ASP.NET\\Products2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|c:\\disk-data\\asp.net\\products2\\products2\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|solutionrelative:products2\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|c:\\disk-data\\asp.net\\products2\\products2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|solutionrelative:products2\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|c:\\disk-data\\asp.net\\products2\\products2\\views\\product\\getallproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|solutionrelative:products2\\views\\product\\getallproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|c:\\disk-data\\asp.net\\products2\\products2\\views\\product\\removeproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61503D3C-B09F-4DC2-B0D4-43112131646F}|Products2\\Products2.csproj|solutionrelative:products2\\views\\product\\removeproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "Products2\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "Products2\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T13:42:38.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveProduct.cshtml",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Views\\Product\\RemoveProduct.cshtml",
+              "RelativeDocumentMoniker": "Products2\\Views\\Product\\RemoveProduct.cshtml",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Views\\Product\\RemoveProduct.cshtml",
+              "RelativeToolTip": "Products2\\Views\\Product\\RemoveProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T13:42:05.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllProducts.cshtml",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Views\\Product\\GetAllProducts.cshtml",
+              "RelativeDocumentMoniker": "Products2\\Views\\Product\\GetAllProducts.cshtml",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Views\\Product\\GetAllProducts.cshtml",
+              "RelativeToolTip": "Products2\\Views\\Product\\GetAllProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T13:32:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Products2\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Disk-DATA\\ASP.NET\\Products2\\Products2\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Products2\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwv0oAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:49:11.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

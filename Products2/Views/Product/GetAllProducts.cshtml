@@ -1,0 +1,21 @@
+﻿@model List<Product>
+
+
+@foreach (var item in Model)
+{
+
+    <div class="card mt-5" style="width: 18rem;">
+
+        <div class="card-body">
+            <h4>Id: @item.Id</h4>
+
+            <h5 class="card-title">Name: @item.Name</h5>
+
+            <h5 class="card-subtitle text-body-secondary">Price: @item.Price</h5>
+
+            <h5 class="card-text">Description: @item.Description</h5>
+
+        </div>
+
+    </div>
+}

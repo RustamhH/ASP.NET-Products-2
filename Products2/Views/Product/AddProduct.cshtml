@@ -1,0 +1,25 @@
+﻿@model Product
+
+<form method="post" asp-action="AddProduct" asp-controller="Product">
+
+    <div class="form-control">
+        <label for="id">Id:</label>
+        <input type="text" id="id" asp-for="Id" />
+    </div>
+    <div class="form-control">
+        <label for="name">Name:</label>
+        <input type="text" id="name" asp-for="Name" />
+    </div>
+    <div class="form-control">
+        <label for="description">Description:</label>
+        <input type="text" id="description" asp-for="Description" />
+    </div>
+    <div class="form-control">
+        <label for="price">Price:</label>
+        <input type="text" id="price" asp-for="Price"/>
+    </div>
+    <button type="submit" class="btn btn-primary">Add</button>
+</form>
+
+
+

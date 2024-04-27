@@ -1,0 +1,28 @@
+﻿<form method="post" asp-action="GetProductById" asp-controller="Product">
+
+    <div class="form-control">
+        <label for="id">Id:</label>
+        <input type="text" id="id" asp-for="Id" />
+    </div>
+    <button type="submit" class="btn btn-primary">Find</button>
+</form>
+
+@model Product
+
+@if (Model is not null)
+{
+    <div class="card mt-5" style="width: 18rem;">
+
+        <div class="card-body">
+            <h4>Id: @Model.Id</h4>
+
+            <h5 class="card-title">Name: @Model.Name</h5>
+
+            <h5 class="card-subtitle text-body-secondary">Price: @Model.Price</h5>
+
+            <h5 class="card-text">Description: @Model.Description</h5>
+
+        </div>
+
+    </div>
+}

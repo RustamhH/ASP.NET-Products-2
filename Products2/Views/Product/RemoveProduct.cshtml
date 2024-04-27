@@ -1,0 +1,9 @@
+﻿@model Product
+<form method="post" asp-action="RemoveProduct" asp-controller="Product">
+
+    <div class="form-control">
+        <label for="id">Id:</label>
+        <input type="text" id="id" asp-for="Id" />
+    </div>
+    <button type="submit" class="btn btn-primary">Remove</button>
+</form>
